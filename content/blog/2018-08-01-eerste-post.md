@@ -1,0 +1,10 @@
+---
+title: Eerste post
+author: ~
+date: '2018-08-01'
+slug: eerste-post
+categories: []
+tags: []
+banner: 'img/jongvee_sp_2.jpg'
+---
+

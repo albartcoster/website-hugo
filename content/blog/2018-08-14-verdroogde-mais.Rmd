@@ -1,0 +1,99 @@
+---
+title: Verdroogde mais
+author: Albart Coster
+date: '2018-08-14'
+slug: verdroogde-mais
+categories: []
+tags:
+  - snijmais
+banner: 'img/droge_mais.jpg'
+bibliography: [library.bib]
+---
+
+Na weken bijzonder droog weer weten we dat een deel van de mais
+verdroogd is. Een belangrijke vraag is wanneer deze mais gehakseld
+dient te worden, en hoe.
+
+In het algemeen geldt dat we eerst zeker moeten zijn dat de mais echt
+verdroogd is en er geen kans op enig herstel of verdere groei van het
+gewas is voor de beslissing tot hakselen wordt genomen. Als het gewas
+nog bij kan trekken en gedeeltelijk verder kan groeien moet het niet
+gehakseld worden. Als de kans op verdere groei echter afwezig is is
+hakselen de beste keus.
+
+Het is verstandig om een verloren gewas te hakselen omdat schadelijke
+microben zoals gisten en schimmels in aantallen toenemen in het gewas
+als het dood op het land staat. Verder is een dood of bijna dood gewas
+zwakker en zal het makkelijker gaan liggen met sterke wind of regen,
+waardoor de verliezen nog groter zijn. 
+
+Over het algemeen kunnen we verwachten dat een gewas met weinig
+zetmeel veel vocht bevat. Dit komt omdat het drogestof percentage van
+de korrel bij de maisoogst meestal tussen de 50 en 60% ligt. Bij
+snijmais met 35% zetmeel kunnen we berekenen dat het korrelaandeel
+meer dan 50% van de drogestof van de mais bedraagt. Het is dus logisch
+dat snijmais met minder zetmeel over het algemeen natter is dan
+snijmais met meer zetmeel. Herhaalde ervaringen met verdroogde snijmais in
+Spanje bevestigen dit beeld.
+
+Omdat het gewas door de aanhoudende droogte verzwakt is kunnen we
+verwachten dat er veel schadelijke microben in aanwezig zijn. Het
+inkuilproces is een soort strijd tussen goede, pH verlagende
+bacterien, en slechte bacterien. Doel van het inkuilproces is de groei
+van de goede bacterien, zoals *Lactobacillus Plantarum*, harder in
+aantal toenemen dan schadelijke microorganismen zoals *Clostridia*,
+*Listeria*, gisten, en schimmels. Omdat de schadelijke soorten
+gevoelig zijn voor een lage pH is het voor een juist verloop van het
+inkuilproces belangrijk dat de pH zo snel mogelijk daalt. Dit wordt
+bevorderd door een juist inkuilproces (schoon werken, goed verdichten
+zodat er weinig zuurstof in de kuil overblijft, snel afdekken, en
+gebruik van juiste inkuilmiddelen, en een juiste afsluiting van de
+kuil). 
+
+Voor een snelle daling van de pH
+raden wij aan om inkuilmiddelen gebaseerd op melkzuurvormende
+melkzuurbacterien te gebruiken. Let hierbij op de aantallen
+melkzuurbacterien (meer is over het algemeen beter, aantallen worden
+uitgedrukt in KVE/gram (Kolonievormende eenheden per gram silage)), en
+gebruik een middel waar onderzoek naar gedaan is. Recent verscheen een
+interessant samenvattend artikel in *Journal of Dairy Science*, waarin
+onderzoek naar voorkomen van pathogene microben in silage door
+inkuilmiddelen (@Queiroz2018).
+
+Een ander recent onderzoek toonde het effect van zuurstofremmende
+folie op de kwaliteit van snaimaiskuilen aan. Een kuil werd voor de
+helft afgedekt met een normaal polyetyleen afdekkleed
+(zuurstofdoorlaatbaarheid was ca 1600 cm3/m2/24 uur) en de andere
+helft met een zuurstofremmende folie (zuurstofdoorlaatbaarheid was ca
+40 cm3/m2/24 uur). Het deel van de kuil dat met de zuurstofremmende
+folie was afgedekt had een lagere pH, en bevatte meer melkzuur, minder
+boterzuur, ammoniak, gisten en schimmels dan het deel dat met normale
+folie was afdekt. Daarnaast waren de DS in het ene
+deel ongeveer de helft van de verliezen in het andere deel (5% en
+10%). (zie @Lima2017). 
+
+Een punt van aandacht in verdroogde mais is dat het veel nitraat kan
+bevatten. In de VS wordt hier veel voor gewaarschuwd tijdens droge
+jaren (zie bijvoorbeeld [google
+zoektocht](https://www.google.com/search?q=drought+stressed+corn+silage)). In
+het algemeen kan worden gesteld dat verdroogde mais makkelijk nitraat
+kan opnemen na een regenbui. Probeer daarom verdroogde mais voor een
+regenbui te hakselen. Een deel van het nitraat wordt in de kuil omgezet in nitriet en
+vervolgens in stikstofoxides. Sommige stikstofoxides hebben een
+roodachtige kleur, andere stikstofoxides zijn zeer
+giftig. Stikstofoxides verdwijnen uit de kuil en verdampen na openen
+van de kuil zodat er weinig gevaar voor vee bestaat, maar ze zijn zeer
+giftig. Let dus goed op bij dit soort kuilen. En, laat kuil ook op
+nitraat onderzoeken, hoge nitraatgehaltes zijn giftig voor melkkoeien,
+vooral voor drachtige koeien.
+
+## Samenvatting
+
+- Haksel verdroogde mais als kans op verdere groei afwezig is.
+- Gebruik een bewezen inkuilmiddel.
+- Kuil zo goed omgelijk in zodat fermentatie zo goed mogelijk
+  verloopt.
+- Overweeg gebruik van een zuurstofremmende folie.
+- Pas op met hoog nitraatgehalte.
+
+## Bronnen

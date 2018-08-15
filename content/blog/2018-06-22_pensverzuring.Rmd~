@@ -1,0 +1,212 @@
+---
+title: Pensverzuring, endotoxintes en gisten
+author: Albart Coster
+date: '2018-06-22'
+slug: pensverzuring
+categories: []
+tags: [gisten, endotoxines, pensverzuring, dikke darmverzuring]
+banner: 'img/gist.jpg'
+bibliography: [library.bib]
+---
+
+
+# Inleiding
+Mij is gevraagd een verhaal te houden over bestendigheid van
+grondstoffen, en om ook in te gaan op verschijnselen van de dunne mest
+bij melkkoeien. In zijn mail sprak Jasper het vermoeden uit dat dunne
+mest wel eens te maken kan hebben met andere zaken dan pensverzuring,
+en noemde hij *Clostridia*.
+
+Ik wil beginnen met een aantal anecdotes om de verschijnselen, en de
+verwarring omtrend deze verschijnselen te verklaren. Vervolgens
+probeer ik aan de hand van literatuur en ervaringen tot passend model
+of verklaring te komen. Uit deze verklaring volgen uiteindelijk een
+serie mogelijke maatregelen. Vanzelfsprekend is het verklaringsmodel
+niet compleet sluitend en altijd vatbaar voor verbetering.
+
+# Anekdotes
+"Fermentatieproducten afkomstig van de gist *Sacharomides cerevisiae*
+verbeteren de vertering en verhogen de voerefficientie." Bron: 
+[https://bit.ly/2sVQEKb](https://bit.ly/2sVQEKb).
+
+"Het risico op pensverzuring bij weidegang is verwaarloosbaar. Het
+blijkt zelfs dat de pens-pH bij de opname van snijmais als bijvoeding
+lager is, dan in de wei". Bron:
+[https://bit.ly/2MC5crl](https://bit.ly/2MC5crl).
+
+"The refined functional carbohydrates prepare the immune system to
+stay ahead of a challenge, support optimal rumen health, maintain
+consistent milk production." Bron:
+[https://bit.ly/2mvlIOv](https://bit.ly/2mvlIOv).
+
+"Met actieve koolstof gaat de benutting van het rantsoen omhoog,
+verbetert de algemene weerstand van de koeien, verminderen de
+gevolgen van mycotoxines, en verminderen de effecten van
+*Salmonella*." Aangepast van:
+[http://www.dekoolstofkring.nl/](http://www.dekoolstofkring.nl/).
+
+Deze bronnnen, en deze lijst is niet volledig, brengen vertering,
+pensverzuring, (myco)toxines en pathogene bacterien in verband. Dit is
+interessant en door middel van dit stuk hoop dat het beeld aan het
+eind duidelijker is.
+
+# Pensverzuring en gevolgen
+Pensverzuring is gedefinieerd als een situatie waarin de pH van de
+pensvloeistof onder een bepaald niveau is. Bij lagere pH daalt de
+vertering van ruwe celstof doordat het aandeel cellulolytische
+bacterien daalt ten opzichte van andere bacterien. Onderzoek wijst
+echter uit dat het probleem niet zo zeer de daling van de pH is, maar
+dat het veel complexer ligt.
+
+@Khafipour2009a laten zien dat vervanging van luzernehooi door
+luzernemeel pellets leidt tot een forse daling van de pens pH. Hoewel
+productie eigenlijk ongewijzigd blijft, daalt met name het
+melkvetgehalte. Hoeveelheid vrije endotoxines nemen fors toe in de
+pensvloeistof, maar deze onderzoekers vonden geen toename van de
+concentratie van endotoxines in het bloed (Tabel 6,
+@Khafipour2009a). DS-opname nam toe in dit onderzoek.
+
+@Khafipour2009 laten in een ander onderzoek echter zien dat
+pensverzuring veroorzaakt door vervanging van ruwvoer door gemalen
+graan leidt tot een daling van de pens pH, daling van productie,
+stijging van endotoxines in de pensvloeistof maar ook tot een forse
+stijging van endoxines in het bloed. Verder daalde de DS-opname in
+dit onderzoek aanzienlijk.
+
+Onderzoek van @Li2012 geeft meer duidelijkheid over deze
+verschijnselen. In dit onderzoek wordt pensverzuring veroorzaakt door
+graan (GBSC) vergeleken met pensverzuring veroorzaakt door
+structuurtekort (APSC). In beide gevallen daalt pens pH. In het geval
+van GBSC neemt de concentratie endotoxines in de pens en dikke darm
+veel meer toe dan in APSC, en wordt er meer LPS binding protein (LPB)
+in het bloed gevonden, teken dat er meer translocatie van endotoxines
+naar het bloed plaats heeft gevonden.
+
+Op een of andere manier kunnen we dus concluderen dat pensverzuring
+veroorzaakt door graan grotere gevolgen heeft dan pensverzuring
+veroorzaakt door een struktuurtekort. Daarnaast weten we dat
+aanwezigheid van endotoxines leiden tot een hyperpermeabiliteit van de
+pens en darmwand (@Emmanuel2007). Verder weten we ook dat endotoxines
+zelf ook een verandering van het pensmilieu veroorzaken (@Jing2014,
+@Eckel2016).
+
+Samenvattend kunnen we dus stellen dat pensverzuring leidt tot een
+toename van endotoxines in het maagdarmkanaal. De aanwezigheid van
+deze endotoxines leidt verandert op hun beurt weer het pensmilieu, en
+leidt tot een permeabeler maagdarmkanaal, waardoor oa deze endotoxines
+zich makkelijker naar het lichaam kunnen verplaatsen.
+ 
+# Gevolgen van endotoxines
+Vooral in transitieperiode is veel bekend over invloed van endotoxines
+op gezondheid. Ten eerste kan worden gesteld dat blootstelling aan
+endotoxines leidt to hogere hogere waardes voor acute fase eiwitten
+(zie vooral het voortreffelijke review van @Eckel2016). 
+
+Acute fase eiwitten leiden oa tot lagere opname. Zo bleek dat
+daling van voeropname en verhoogde waardes voor acute fase eiwitten in
+transitieperiode samengingen, en dat lagere opname en hogere waardes
+acute fase eiwitten samengingen met verlaagde melkproductie na
+afkalven (@Bertoni2010, @shin2018, @Zebeli2011). 
+
+Daarnaast is er een sterk verband tussen leververvetting en bacteriele
+endotoxines aangetoond, zowel in runderen (@Eckel2016, @Ametaj2005),
+maar interessant genoeg is er in de humane geneeskunde ook veel
+bekend over verband tussen endotoxines en leverproblemen
+(@Eliades2015).
+
+Het review van @Eckel2016 stelt dat er een sterk verband is tussen
+bacteriele endotoxines en transitieproblemen. Deze stelling komt
+recent ook veel in het nieuws, oa door de lezingen van Baumgard, die
+stelt dat lekkende dikke darm de oorzaak is van ketose (zie
+bijvoorbeeld zijn bijdrage aan Rundveevoeding Symposium 2017 in
+Wageningen ([https://bit.ly/2ti2Ip5](https://bit.ly/2ti2Ip5)).
+
+Een interessant punnt uit het review van @Eckel2016 is dat endotoxines
+leiden tot een daling van het bloed [Ca]. Daarnaast wordt door
+@Eliades2015 betoogd dat er een verband is tussen levervetting en Vit
+D3 (in humane geneeskunde wordt zontherapie of Vit D3 toegediend bij
+leververvetting. Als we het Vit D metabolisme overwegen kunnen we ook
+de vraag stellen of een tekort aan de actieve vorm van Vit D
+(calcidiol) oorzaak of gevolg is van leververvetting.
+
+Andere gevolgen van endotoxines zijn klauwproblemen, uieronsteking,
+maar bijzonder genoeg ook weer pensverzuring (@Eckel2016). Heel
+interessant is het feit dat endotoxines zelf ook weer leiden tot
+verandering van het microbiele pensmilieu, en daardoor ook zelf weer
+pensverzuring kunnen veroorzaken (@Jing2014,@Eckel2016).
+
+# Bronnen van endotoxines
+Zoals hierboven beschreven leidt pensverzuring tot een toename van de
+concentratie endotoxines in het maagdarmkanaal
+(@Emmanuel2007,@Khafipour2009,@Khafipour2009a,@Li2012), vooral doordat
+er disbacteriose onstaat op pensniveau waardoor het aandeel
+cellulolytische bacterien afneemt ten koste van andere
+bacteriesoorten.
+
+Verder is er toenemend bewijs dat microbiele verontreiniging van voer
+gevolgen heeft voor gezondheid van dieren, maar is het
+wetenschappelijk bewijs voor invloed van endotoxines uit voer op
+gezondheid nog beperkt. Een interessant onderzoek op dit gebied is dat
+van @Baines2011, waar microbiele verontreinigigingen een factor zijn
+voor Jejunal Hemorhagic Syndrome in melkvee (naast aandeel krachtvoer,
+mycotoxines en grootte van het bedrijf).
+
+Uit eigen inventarisatie blijkt dat microbiele veronreinigingen van
+voer niet moeten worden onderschat. Denk met name aan gras- en
+maiskuilen, en ander ruwvoer, maar ook aan enkelvoudige grondstoffen.
+Voor een inventarisatie van granen zie bijvoorbeeld
+[https://bit.ly/2sZ9Ozu](https://bit.ly/2sZ9Ozu).
+
+Recent neemt de aandacht voor kwaliteit van drinkwater toe. Met name
+verontreiniging door coliformen lijkt belangrijk. Er zijn zelfs
+aanwijzingen dat uitscheiding van E-coli O157:H7 door vleesvee wordt beinvloed
+door waterkwaliteit (@beauvais2018), en deze E-coli stam is dezelfde
+die als factor voor JHS werd aangetoond door @Baines2011.
+
+# Bestrijden van endotoxines
+Endotoxines dienen ten eerste worden bestreden door het tegengaan van
+de oorzaak. Pensverzuring dient te worden voorkomen door een
+combinatie van maatregelen. Daarnaast is aandacht voor andere bronnen
+zoals voer en water belangrijk.
+
+Mbt ruwvoer is een goed inkuilproces van groot belangrijk. Onderzoek
+uit de jaren '80 liet al zien dat boterzuurbesmetting van kuilen afnam
+door hakselen (@Hengeveld1983). DAarnaast kan juist gebruik van
+inkuilmiddelen het aantal boterzuursporen in kuilen sterk verlagen
+(@pieper2009), en heeft dit ook een aanzienlijke invloed op de
+microbiële verontreiniging van kuilen (@Mceniry2014 en vooral
+@Queiroz2018).
+
+Daarnaast kunnen toxinebindende producten een duidelijke invloed
+hebben op gezondheid van dieren. @Baines2011 toonden aan dat inzet van
+een gehydrolyseerd gistcelwandproduct de effecten van JHS
+verminderde. En, het is erg aannemelijk dat een deel van de positieve
+effecten van dit soort producten in normale omstandigheden ook te
+maken hebben met een bepaalde vorm van toxinebinding (zie oa
+@Nocek2011,@Spring2015,@Poppy2012a,@Li2016). Voor onszelf was het artikel van
+@Lei2013 belangrijk om de invloed van toxinebindende producten te
+begrijpen. Deze onderzoekers vergeleken de invloed van een
+kleimineraal (Montmorriloniet) met een gistcelwandextract (Biomos van
+Alltech) op de groei van vleesstieren. Ze vonden dat het aandeel LPB
+in het bloed van de gesupplementeerde dieren lager was, én dat deze
+dieren beter groeiden dan de ongesuplementeerde dieren, waarbij de
+groei van dieren met gistcelwand beter was dan van de dieren die
+Montmorriloniet kregen. Ook tussen kleimineralen zijn duidelijke
+verschillen gevonden als het gaat om binding van endotoxines
+(@Schaumberger2014).
+
+Wellicht moeten we de claims van kleimineralen, gistproducten en ook
+van producten die iets esotherischer aandoen zoals bijvoorbeeld de
+producten van de Koolstofkring in deze richting duiden. Grote vraag
+blijft dan welke producten we moeten inzetten, in welke
+omstandigheden.
+
+# Werkingsmechanisme van producten
+MOS/Betaglucanen. Inactivatie. ...
+
+
+
+
+# Bronvermelding
+
+
