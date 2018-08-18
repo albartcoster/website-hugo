@@ -1,13 +1,13 @@
 ---
-title: Verdroogde mais
-author: Albart Coster
+title: "Verdroogde mais"
+author: "Albart Coster"
 date: '2018-08-14'
-slug: verdroogde-mais
+output: pdf_document
+bibliography: library.bib
 categories: []
-tags:
-  - snijmais
-banner: 'img/droge_mais.jpg'
-bibliography: [library.bib]
+slug: verdroogde-mais
+tags: snijmais
+banner: img/droge_mais.jpg
 ---
 
 Na weken bijzonder droog weer weten we dat een deel van de mais

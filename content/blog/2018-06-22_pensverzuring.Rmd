@@ -11,9 +11,9 @@ bibliography: [library.bib]
 
 
 # Inleiding
-Mij is gevraagd een verhaal te houden over bestendigheid van
+Recent werd ik gevraagd om een verhaal te houden over bestendigheid van
 grondstoffen, en om ook in te gaan op verschijnselen van de dunne mest
-bij melkkoeien. In zijn mail sprak Jasper het vermoeden uit dat dunne
+bij melkkoeien. Er was ook het vermoeden uit dat dunne
 mest wel eens te maken kan hebben met andere zaken dan pensverzuring,
 en noemde hij *Clostridia*.
 

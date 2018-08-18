@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2018/08/14/2018-08-14-verdroogde-mais/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+    <loc>/blog/2018/08/16/2018-08-16-rode-klaver-in-rantsoenen/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/08/03/2018-08-03-rode-klaver-in-rantsoenen/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <loc>/blog/2018/08/14/2018-08-14-verdroogde-mais/</loc>
+    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +29,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,6 +73,24 @@
   <url>
     <loc>/tags/pensverzuring/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/proteolyse/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rantsoen/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rode-klaver/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
