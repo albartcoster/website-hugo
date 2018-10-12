@@ -1,12 +1,16 @@
 ---
-title: Rode klaver in rantsoenen
-author: Albart Coster
+title: "Rode klaver in rantsoenen"
+author: "Albart Coster"
 date: '2018-08-16'
-slug: rode-klaver-in-rantsoenen
+output: pdf_document
+bibliography: library.bib
 categories: []
-tags: [rode klaver, rantsoen, proteolyse]
-banner: 'img/rode_klaver.jpg'
-bibliography: [library.bib]
+slug: rode-klaver-in-rantsoenen
+tags:
+- rode klaver
+- rantsoen
+- proteolyse
+banner: img/rode_klaver.jpg
 ---
 
 Het onderzoeksproject [Legumeplus](legumeplus.eu) is een groot
@@ -49,7 +53,7 @@ vlinderbloemigen over het algemeen leidt tot hogere opname, en dit
 leidt weer tot hogere productie. Vergeken met engel raaigras heeft
 rode klaver een lagere verteerbaarheid en bevat het meer eiwit, maar neemt de verteerbaarheid
 veel minder af met maturatiestadium (Tabel 7 uit
-@Dewhurst2009). @Dewhurst relateren de hogere opname door inzet van
+@Dewhurst2009). @Dewhurst2009 relateren de hogere opname door inzet van
 vlinderbloemigen aan hun chemische structuur. Vergeleken met raaigras
 breekt het makkelijker, waardoor een deel van de klaver sneller
 fermenteert in de pens, en ook weer sneller doorstroomt (dit geldt

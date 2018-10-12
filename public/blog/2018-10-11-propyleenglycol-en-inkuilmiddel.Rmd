@@ -1,0 +1,20 @@
+---
+title: Propyleenglycol en inkuilmiddel
+author: ~
+date: '2018-10-11'
+slug: propyleenglycol-en-inkuilmiddel
+bibliography: library.bib
+banner: img/XVIII_conf.png
+categories: []
+tags: [propyleenglycol,silage,lactobacillus buchneri,ketose]
+---
+
+Twee verhalen op de silage conferentie in Bonn gingen over propyleenglycolgehalte van silage, en hoe dat beïnvloed kon worden door inkuilmiddel.
+
+@lau2018a beschreven dat *Lactobacillus Buchneri* in relatief natte, suikerrijke kuilen leidde tot fors hogere propyleenglycolgehaltes in graskuilen vergeleken met *Lactobacillus Plantarum* en controlebehandeling. Graskuilen waaaraan *L. Buchneri* was toegevoegd bevatten ca 1.9% PG op DS basis terwijl de controlekuilen en kuilen met *L. Plantarum* niet meer dan 0.1% en 0.04% PG bevatten. Zie lieten ook een negatief verband zien tussen DS gehalte en PG en een positief verband tussen suikergehalte en PG.
+
+@lau2018b beschreven de invloed van PG gehalte van kuilen op BHBA in bloed van melkkoeien. PG gehalte in kuilen was verhoogd door inzet van *L. Buchneri*. In deze proef bevatte het gras met hoog PG gehaltee 3.89% PG en het gras met laag PG 0.06%. BHBA gehaltes van koeien die het gras met hoog PG kregen lag substantieel lager dan van koeien die het gras met laag PG gehalte kregen. De koeien die het gras met veel PG kregen produceerden ook meer melk met hoger eiwitgehalte en lager vetgehalte in de onderzoeksperiode.
+
+Deze resultaten komen overeen met de resultaten van @Nishino2003, die een substantieele toename van PG in snijmais vonden door inoculatie met *L. Buchneri*. Het is bekend dat of bijvoeren van propyleenglycol een effectieve manier is om ketose bij verse koeien tegen te gaan (@Chung2009), maar interessant genoeg is drenchen of *top-dressing* effectieven dan inmengen in het rantsoen (@Chung2009). De resulaten van @lau2018a en @lau2018b laten ons echter heel anders denken over inkuilmiddelen met *L. Buchneri*.
+
+## Referenties

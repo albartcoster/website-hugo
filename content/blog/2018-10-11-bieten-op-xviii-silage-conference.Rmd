@@ -1,0 +1,29 @@
+---
+title: 'bieten op XVIII Silage Conference'
+author: ~
+date: '2018-10-11'
+slug: bieten-op-xviii-silage-conference
+bibliography: library.bib
+banner: img/XVIII_conf.png
+categories: []
+tags: []
+---
+
+In juli 2018 werd in Bonn een wetenschappelijke conferentie over silages gehouden. Helaas was ik niet aanwezig, maar omdat het onderwerp bijzonder relevant voor ons is heb ik de bijdrages doorgelezen. Samenvattingen van alle bijdrages vindt u via deze link [https://www.isc2018.de/Download/Proceedings](https://www.isc2018.de/Download/Proceedings). In deze post ga ik in op een aantal onderzoeken op het gebied van bieten.
+
+### Sugarbeets with varying ensiling partners: losses and volatile organic compounds
+
+Bieten in rantsoenen van melkkoeien zijn een belangrijk onderwerp, oa door hoge DS opbrengst en gunstige uitwerking op productie en gehaltes. Conservering van bieten is echter moeilijk omdat er makkelijk grote verliezen optreden door verlies van suiker in de vorm van vloeistof en omzetting naar ethanol. Deze nadelen werden ook al geconstateerd door @Hellwing2017. Om verliezen tegen te gaan wordt in de biogasindustrie aangeraden om bieten in vloeistofdichte plekken op te slaan, en om het effluent te gebruiken (@Wagner2011).
+
+@kindermann2018 maakten experimentele silages van suikerbieten met verschillende andere producten. Ze zagen dat verliezen in de vorm van effluent en ethanol ca 10% bedroegen als bieten alleen werden ingekuild of samen met droge bietenpulp. Dit is logisch omdat droge bietenpulp ook al veel suiker bevat, terwijl er in de bieten zelf al voldoende suiker aanwezig is. Verliezen namen af als bieten met een klein beetje stro (3%) werden ingekuild of met andere droge producten als droog gras. Interessant genoeg werd de vorming van ethanol vooral geremd icm 30% graskuil.
+
+### Sugar beet-straw mixed silage and its effect on milk production and feed intake of dairy cows
+
+@beeger2018 gebruikten suikerbieten ingekuild met 12 of 15% tarwestro in melkveerantsoenen. De bietensilage verving snijmaissilage en krachtvoer.
+
+Door inzet van bietensilage daalde de DS opname van ca 23 kg DS/koe/dag naar 22 kg DS/koe/dag. De melkproductie bleef ongeveer gelijk, vetgehalte steeg van 3.8% naar 4.1% en het eiwitgehalte daalde een klein beetje. 
+
+Wellicht hadden deze onderzoekers beter iets minder bietensilage en meer krachtvoer kunnen inzetten zodat opname beter op peil was gebleven. Vermoedelijk was de productie dan beter op peil gebleven.
+
+## Referenties
+

@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2018/10/11/2018-10-11-propyleenglycol-en-inkuilmiddel/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/10/11/2018-10-11-nav-xviii-silage-conference-vlinderbloemigen/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/10/11/2018-10-11-bieten-op-xviii-silage-conference/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/10/11/2018-10-11-hooi-xviii-silage-conference/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/10/11/2018-10-11-nav-xviii-silage-conference/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2018/08/16/2018-08-16-rode-klaver-in-rantsoenen/</loc>
     <lastmod>2018-08-16T00:00:00+00:00</lastmod>
   </url>
@@ -18,18 +43,13 @@
   </url>
   
   <url>
-    <loc>/blog/2018/07/01/2018-07-01-eerste/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2018/06/22/2018-06-22_pensverzuring/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,7 +64,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,13 +75,13 @@
   </url>
   
   <url>
-    <loc>/tags/endotoxines/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/doel/</loc>
   </url>
   
   <url>
-    <loc>/faq/</loc>
+    <loc>/tags/endotoxines/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -71,8 +91,38 @@
   </url>
   
   <url>
+    <loc>/tags/hooi/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ketose/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lactobacillus-buchneri/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/opslag/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/pensverzuring/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/propyleenglycol/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,6 +145,12 @@
   </url>
   
   <url>
+    <loc>/tags/silage/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/snijmais/</loc>
     <lastmod>2018-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -103,6 +159,12 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/zuur/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

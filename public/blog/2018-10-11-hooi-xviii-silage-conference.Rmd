@@ -1,0 +1,24 @@
+---
+title: hooi op XVIII Silage Conference
+author: ~
+date: '2018-10-11'
+slug: hooi-xviii-silage-conference
+bibliography: library.bib
+banner: img/XVIII_conf.png
+categories: []
+tags: [hooi,zuur,opslag]
+---
+
+
+In juli 2018 werd in Bonn een wetenschappelijke conferentie over silages gehouden. Helaas was ik niet aanwezig, maar omdat het onderwerp bijzonder relevant voor ons is heb ik de bijdrages doorgelezen. Samenvattingen van alle bijdrages vindt u via deze link [https://www.isc2018.de/Download/Proceedings](https://www.isc2018.de/Download/Proceedings). In deze post ga ik in op een aantal onderzoeken op het gebied van hooi.
+
+Recent zag ik dit filmpje, waarin een boer propionzuur gebruikt om niet volledig droog hooi goed op te slaan: [https://youtu.be/iAGri7g23xw](https://youtu.be/iAGri7g23xw). Het onderwerp is bijzonder interessant omdat hooi een zeer smakelijk product is voor melkkoeien en omdat het in tegenstelling tot grassilage handelswaarde heeft. Daarnaast zijn er veel aanwijzigen dat een aandeel hooi van goede kwaliteit gezond is voor koeien. Wellicht oa omdat hooi veel meer Vitamine D3 bevat dan silage (@Newlander1952, @Japelt2013). Wellicht is dit ook een van de redenen waarom inzet van hooi zo goed werkt bij droge koeien, en moeten we de werking van hooi. Nieuw inzicht in het nut van Vit D3 komt uit de humane gezondheidszorg, waar sterke aanwijzingen zijn dat Niet Alkoholische Leververvetting (NAFLD) gedeeltelijk kan worden verklaard door een Vitamine D3 tekort (zie @Eliades2015). Vertaald naar melkkoeien: is er een verband tussen slepende melkziekte en vitamine D3 tekort? Dit wordt helemaal interessant als we beseffen dat de functionele vorm van Vit D3 via een aantal tussenstappen in het lichaam wordt gevormd, waarbij oa de lever verantwoordelijk is (zie opnieuw @Eliades2015). Is leververvetting daarom niet ook de oorzaak van Vit D3 tekort?
+
+Terug naar hooi. In de conferentie waren een paar interessante bijdrages over conservering van hooi.
+
+@rahn2018 vergeleek de kwaliteit van nat hooi zonder toevoegmiddel (T1) met hooi behandeld met een mengsel van kaliumsorbaat, natrium benzoaat en natrium propionaat (250 gram/ton hooi) (T3) en met hooi behandeld met 4.5 liter propionzuur/ton (T2). Hooi T1 bevatte na 30 en 100 dagen meer schimmels, en had een hogere temperatuur bereikt dan hooi T2 en T3. Tussen T2 en T3 waren geen grote verschillen, behalve dat T3 een vriendelijker product is dan T2 (propionzuur). De auteurs concludeerden dat te nat hooi opgeslagen kan worden met een conserveringsmiddel. Het conserveringsmiddel is Raicosyl Hay van Agravis, zie bijvoorbeeld [https://www.agravis.de/de/tiere/silierung_und_konservierung/heuqualitaet_sichern/index.html](https://www.agravis.de/de/tiere/silierung_und_konservierung/heuqualitaet_sichern/index.html).
+
+
+Een alternatieve benadering werd gepresenteerd door @palmonari2018. Deze onderzoekers vergeleken een toevoegmiddel gebaseerd op *Pediococcus Pentaseucus* en het enzym Chitinase ([https://nl.wikipedia.org/wiki/Chitinase](https://nl.wikipedia.org/wiki/Chitinase)) met een controle behandeling (geen toevoegmiddel) en propionzuur in vochtig hooi van luzerne en gras (gemiddeld 67% DS) en droog hooi. Ze zagen dat toevoeging van middelen leidde tot hooi van vergelijkbare kwaliteit als droog hooi, terwijl de kwaliteit van het natte hooi zonder toevoegmiddelen fors was gedaald. Verder zagen ze  minder opwarming door de behandelingen in luzerne.
+
+## Referenties
